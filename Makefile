@@ -8,7 +8,7 @@ install: pyproject.toml
 	poetry install
 
 clean:
-	for /d /r %%d in (__pycache__) do rmdir /q /s "%%d"
+	for /d /r %%d in (__pycache__) do rmdir /s /q "%%d"
 
 check:
 	poetry run flake8 src/

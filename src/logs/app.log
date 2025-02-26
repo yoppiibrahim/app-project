@@ -13,3 +13,8 @@
 2025-02-26 13:58:22.993 | INFO     | model.model_service:load_model:31 - Model rf_db_v2 exist..!!loading model configuration file
 2025-02-26 13:58:23.024 | INFO     | model.model_service:predict:40 - Make Prediction
 2025-02-26 13:58:23.057 | INFO     | __main__:main:25 - Prediction: [2097.79547924]
+2025-02-26 15:35:11.162 | INFO     | __main__:main:8 - Running the Application
+2025-02-26 15:35:11.165 | INFO     | model.model_service:load_model:15 - Checking the existence of model config file at model\models/rf_db_v2
+2025-02-26 15:35:11.166 | INFO     | model.model_service:load_model:31 - Model rf_db_v2 exist..!!loading model configuration file
+2025-02-26 15:35:11.364 | INFO     | model.model_service:predict:40 - Make Prediction
+2025-02-26 15:35:11.408 | INFO     | __main__:main:25 - Prediction: [2097.79547924]
