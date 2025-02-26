@@ -7,7 +7,7 @@ authors = ["yoppiibra <yoppiibra@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.12.7"
 scikit-learn = "1.5.1"
 pandas = "^2.2.3"
 pydantic = "^2.10.6"
